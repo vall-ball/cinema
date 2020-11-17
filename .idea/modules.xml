@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Cinema_Room_Manager.Cinema_Room_Manager-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculator with four methods/Cinema_Room_Manager.Problems-Calculator_with_four_methods.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculator with four methods/Cinema_Room_Manager.Problems-Calculator_with_four_methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculator with four methods/Cinema_Room_Manager.Problems-Calculator_with_four_methods.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculator with four methods/Cinema_Room_Manager.Problems-Calculator_with_four_methods.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Calculator with four methods/Cinema_Room_Manager.Problems-Calculator_with_four_methods.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Calculator with four methods/Cinema_Room_Manager.Problems-Calculator_with_four_methods.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Cinema_Room_Manager.Problems-Create_a_full_name.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Cinema_Room_Manager.Problems-Create_a_full_name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Cinema_Room_Manager.Problems-Create_a_full_name.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Cinema_Room_Manager.Problems-Create_a_full_name.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Cinema_Room_Manager.Problems-Create_a_full_name.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create a full name/Cinema_Room_Manager.Problems-Create_a_full_name.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Cinema_Room_Manager.Problems-Decompose_a_math_function.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Cinema_Room_Manager.Problems-Decompose_a_math_function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Cinema_Room_Manager.Problems-Decompose_a_math_function.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Cinema_Room_Manager.Problems-Decompose_a_math_function.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Cinema_Room_Manager.Problems-Decompose_a_math_function.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Decompose a math function/Cinema_Room_Manager.Problems-Decompose_a_math_function.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
